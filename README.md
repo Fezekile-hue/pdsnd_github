@@ -14,7 +14,7 @@ washington.csv
 bikeshare.py
 
 ### Credits
-The following tool and references were used to complete the project
+The following tool and references were used
 1. Atom text editor
 2. jupyter to assist in debugging and working through the code out Put
 3. https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
